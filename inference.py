@@ -10,7 +10,6 @@ import os
 import numpy as np
 import cv2
 import torch
-import torch.nn as nn
 import torchvision
 from torchvision.transforms import InterpolationMode
 import argparse
