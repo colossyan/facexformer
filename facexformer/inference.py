@@ -15,7 +15,7 @@ from torchvision.transforms import InterpolationMode
 import argparse
 from math import cos, sin
 from PIL import Image
-from network import FaceXFormer
+from .network import FaceXFormer
 from facenet_pytorch import MTCNN
 
 
